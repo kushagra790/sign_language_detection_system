@@ -1,2 +1,3 @@
 # sign_language_detection_system
 ppython , ml project
+Sign Language Detection System is a Python‑based machine learning project that recognizes hand gestures corresponding to sign language alphabets or words in real time. Leveraging libraries like OpenCV for image capture and preprocessing, and a convolutional neural network (e.g., using TensorFlow or PyTorch) for classification, the system processes webcam input to identify and display the user’s signed letters or phrases. Designed for accessibility, it can be extended with a simple GUI or web interface to translate sign language into text, aiding communication between deaf or hard‑of‑hearing users and non‑signers.
